@@ -1,0 +1,16 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/.vs
+*.user
+*.suo
+/kuxue.pro.task/kuxue.pro.task.quartz/bin
+/kuxue.pro.task/kuxue.pro.task.quartz/obj
+/kuxue.pro.task/kuxue.pro.task.quartz/appsettings.Development.json
+/kuxue.pro.task/.vs/kuxue.pro.task
+/kuxue.pro.task/kuxue.pro.task.infrastructure/bin/Debug/netstandard2.0
+/kuxue.pro.task/kuxue.pro.task.infrastructure/obj
+/kuxue.pro.task/kuxue.pro.task.Hangfire/bin/Debug/netcoreapp3.1
+/kuxue.pro.task/kuxue.pro.task.Hangfire/obj
+/kuxue.pro.task/kuxue.pro.task.Hangfire/appsettings.Development.json
